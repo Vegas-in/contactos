@@ -1,0 +1,64 @@
+
+
+
+h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding-left: 15px;
+    margin-bottom: 1px;
+}
+
+p{
+    color: #bdbdbb;
+    margin-top: 1px;
+    padding-left: 15px;
+    font-size: large;
+}
+
+
+
+.contenedor{
+    display: flex;
+    background-color: dodgerblue;
+    padding: 10%;
+    margin: 50px 300px;
+    justify-content: center;
+}
+
+.sec{
+    display: flex;
+    background-color: white;
+    flex-direction: column;
+    padding: 20px;
+    width: 400px;
+}
+
+article{
+    display: flex;
+    flex-direction: row;
+    padding: 10px;
+    border-top: 1px solid #c9c9c9;
+   
+}
+
+
+.img_r{
+    width: 100px;
+    height: 100px;
+    background-size: cover;
+    border-radius: 50%;
+    
+}
+
+#card{
+    border-top: none;
+}
+
+.texto{
+    display: flex;
+    flex-direction: column;
+}
+   
+
+
+
+
